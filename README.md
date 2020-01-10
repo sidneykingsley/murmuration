@@ -7,7 +7,7 @@ My model has been trained using pix2pix. Pix2pix uses conditional adversarial ne
 # Documentation
 - A video document of my model responding to live video input can be seen at **//VIMEO LINK HERE//**
 - Image documentation can be found in the 'screen-captures' section of this repository.
-- Examples of the model making guesses from its 'A' source data can be found at **//TEST INDEX.HTML LINK HERE//**
+- Examples of the model making guesses from its 'A' source data can be found at https://sidneykingsley.github.io/test-demo-murmuration
 
 
 # Code
@@ -24,7 +24,7 @@ The code used in this project can be divided into three sections:
 - Tensorflow 1.4.1
 - PyQt
 - PyQtGraph (0.10)
-3. Download my model from **//ADD LINK HERE//**
+3. Download my model from https://github.com/sidneykingsley/murmuration/releases/tag/1.0
 4. Place the downloaded folder within the 'models' directory
 5. Run 'python webcam-pix2pix.py' from your virtual env.
 
