@@ -5,7 +5,7 @@ My model has been trained using pix2pix. Pix2pix uses conditional adversarial ne
 
 
 # Documentation
-- A video document of my model responding to live video input can be seen at **//VIMEO LINK HERE//**
+- A video document of my model responding to live video input can be seen at https://vimeo.com/383992381
 - Image documentation can be found in the 'screen-captures' section of this repository.
 - Examples of the model making guesses from its 'A' source data can be found at https://sidneykingsley.github.io/test-demo-murmuration
 
@@ -43,3 +43,16 @@ This project would be best executed on a machine with a powerful dedicated GPU.
 - Memo Akten for his webcam-pix2pix-tensorflow pretrained model visualiser project (https://github.com/memo/webcam-pix2pix-tensorflow)
 - Phillip Isola et al for pix2pix (https://phillipi.github.io/pix2pix)
 - Christopher Hesse (@affinelayer) for his pix2pix-tensorflow port (https://github.com/affinelayer/pix2pix-tensorflow)
+
+
+
+
+## Bibliography
+Akten, M. (2020). memo/webcam-pix2pix-tensorflow.
+Akten, M. (n.d). Learning to See. Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company. URL http://www.memo.tv/portfolio/learning-to-see/
+Hesse, C., (2020). affinelayer/pix2pix-tensorflow. affinelayer.
+Isola, P., Zhu, J.-Y., Zhou, T., Efros, A.A., (n.d.) Image-to-Image Translation with Conditional Adversarial Networks. URL https://phillipi.github.io/pix2pix/
+Kissick, M. (2016). Murmuration... URL https://i-dat.org/murmuration/
+OpenCV, (n.d.) URL https://opencv.org/
+TensorFlow, (n.d.) TensorFlow. URL https://www.tensorflow.org/
+
