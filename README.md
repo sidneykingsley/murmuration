@@ -5,9 +5,9 @@ My model has been trained using pix2pix. Pix2pix uses conditional adversarial ne
 
 
 # Documentation
-A video document of my model responding to live video input can be seen at **//VIMEO LINK HERE//**
-Image documentation can be found in the 'screen-captures' section of this repository.
-Examples of the model making guesses from its 'A' source data can be found at **//TEST INDEX.HTML LINK HERE//**
+- A video document of my model responding to live video input can be seen at **//VIMEO LINK HERE//**
+- Image documentation can be found in the 'screen-captures' section of this repository.
+- Examples of the model making guesses from its 'A' source data can be found at **//TEST INDEX.HTML LINK HERE//**
 
 
 # Code
